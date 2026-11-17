@@ -1,8 +1,0 @@
-torch>=2.0.0
-torchvision
-fastapi
-uvicorn
-pillow
-transformers
-requests
-python-multipart
